@@ -1,5 +1,8 @@
-export default function Interests() {
+export default function About() {
     return (
-        <h1>This is Interests</h1>
+        <>
+        <h2>Interets</h2>
+        <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+        </>
     )
 }

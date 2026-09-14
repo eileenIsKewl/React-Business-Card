@@ -1,3 +1,6 @@
+import About from "/components/About.jsx"
+import Interests from "/components/Interests.jsx"
+
 export default function MainInfo() {
     return (
         <main>
@@ -6,6 +9,8 @@ export default function MainInfo() {
             <p id="occupation">Frontend Developer</p>
             <a id="personal-website" href="#">laurasmith.website</a>
             <button id="email-btn"><img src="/assets/email.png"/>Email</button>
+            <About />
+            <Interests />
         </main>
     )
 }
