@@ -1,5 +1,11 @@
 export default function MainInfo() {
     return (
-        <h1>This is MainInfo</h1>
+        <main>
+            <img src="/assets/profile.png"/>
+            <h1 id="name">Laura Smith</h1>
+            <p id="occupation">Frontend Developer</p>
+            <a href="#">laurasmith.website</a>
+            <button><img src="/assets/email.png"/>Email</button>
+        </main>
     )
 }

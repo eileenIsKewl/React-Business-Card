@@ -4,4 +4,11 @@
 
 body {
     background-color: #23252C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+    text-align: center;
 }
+
