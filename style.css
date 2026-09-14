@@ -12,3 +12,25 @@ body {
     text-align: center;
 }
 
+#name {
+    margin: 1.25rem 0 0.375rem 0;
+}
+
+#personal-website {
+    text-decoration: none;
+    color: #f5f5f5;
+    font-weight: 200;
+}
+
+a:hover, #personal-website:hover {
+    text-decoration: underline;
+}
+
+#email-btn {
+    width: 100%;
+}
+
+#occupation {
+    color: #F3BF99;
+    margin: 0;
+}
