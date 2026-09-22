@@ -1,5 +1,11 @@
 export default function Footer() {
     return (
-        <h1>This is Footer</h1>
+        <footer>
+            <a href="#"><img src="/assets/twitter-icon.png"/></a>
+            <a href="#"><img src="/assets/facebook-icon.png"/></a>
+            <a href="#"><img src="/assets/instagram-icon.png"/></a>
+            <a href="#"><img src="/assets/linkedin-icon.png"/></a>
+            <a href="#"><img src="/assets/github-icon.png"/></a>
+        </footer>
     )
 }
